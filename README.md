@@ -1,2 +1,2 @@
 # RepoClone
-Estudos sobre Git para projetos já iniciados no GitHub
+Estudos Git para projetos já iniciados no GitHub
