@@ -1,0 +1,6 @@
+#BACKLIST
+#Ignorando arquivo por nome.txt
+teste.txt
+
+#Ignorando TODOS: *.js
+*.js
